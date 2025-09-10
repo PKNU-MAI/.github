@@ -1,5 +1,5 @@
-- (이미지 추가 예정)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,5&text=Medical%20AI%20Lab&fontColor=ffffff&height=230&fontAlign=65&fontAlignY=50)
 #  Medical AI Lab
 
 Welcome to the Laboratory of AI on medical applications! <br>
