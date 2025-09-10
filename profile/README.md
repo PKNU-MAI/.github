@@ -24,6 +24,7 @@ The lab’s research goal is the development of an AI framework, **"Virtual Doct
 
 ---
 ## 📫 Connect With Us
+- I am looking for postdocs, graduate and undergraduate students interested in machine learning, imaging genetics, medical image computing, bioinformatics, and biomedical data science.
 - ✉️ Email: jhwon@pknu.ac.kr or jihyelo100@gmail.com <br>
 - 🌐 Website: [Medical AI Lab](https://sites.google.com/view/medical-ai-lab/home?authuser=0)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&fontColor=ffffff&height=230&fontAlign=65&fontAlignY=50&section=footer)
