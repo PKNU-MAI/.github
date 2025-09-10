@@ -6,6 +6,11 @@ Welcome to the Laboratory of AI on medical applications! <br>
 We focus on uncovering the relationships between **brain imaging** and **genomic data**, aiming to identify meaningful **biomarkers** to advance healthcare research.  
 
 ---
+##  Research Goal
+
+The lab’s research goal is the development of an AI framework, **"Virtual Doctor"**, that supports **data analysis and decision-making**.  
+
+---
 
 ##  Research Areas
 
