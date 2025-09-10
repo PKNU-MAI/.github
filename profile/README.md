@@ -1,7 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,5&text=Medical%20AI%20Lab&fontColor=ffffff&height=230&fontAlign=65&fontAlignY=50)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&text=Medical%20AI%20Lab&fontColor=ffffff&height=230&fontAlign=65&fontAlignY=50)
 #  Medical AI Lab
 
 Welcome to the Laboratory of AI on medical applications! <br>
@@ -28,4 +26,4 @@ The lab’s research goal is the development of an AI framework, **"Virtual Doct
 ## 📫 Connect With Us
 - ✉️ Email: jhwon@pknu.ac.kr or jihyelo100@gmail.com <br>
 - 🌐 Website: [Medical AI Lab](https://sites.google.com/view/medical-ai-lab/home?authuser=0)
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,3,0&fontColor=ffffff&height=230&fontAlign=65&fontAlignY=50&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&fontColor=ffffff&height=230&fontAlign=65&fontAlignY=50&section=footer)
